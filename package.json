@@ -1,11 +1,17 @@
 {
   "name": "caravaggio",
-  "displayName": "Caravaggio",
+  "displayName": "Caravaggio color theme",
   "description": "A VSCode theme inspired by the Caravaggio color scheme",
   "publisher": "cornevin",
-  "repository": "https://github.com/johnnyghost/caravaggio",
+  "repository": "https://github.com/cornevin/caravaggio",
   "icon": "icon.png",
   "version": "0.0.1",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "caravaggio",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },
